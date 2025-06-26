@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408094509915",
+    "project_id": "ss-home-a7ec2",
+    "storage_bucket": "ss-home-a7ec2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408094509915:android:115db515c502a1879ce87e",
+        "android_client_info": {
+          "package_name": "com.example.ss_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkMSRRgoWK3EISAf5CuWKUMOl0r_QLBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
