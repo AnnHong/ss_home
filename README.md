@@ -5,6 +5,6 @@ This is the DIY Home Monitoring System that seamlessly distributes the workload 
 
 Please refer to the code in Arduino and Node.js for Websocket Connection of ESP 32 Camera module. 
 
-Node.js : https://github.com/AnnHong/websocket-server
+Node.js: https://github.com/AnnHong/websocket-server
 
-Arduino : https://github.com/AnnHong/Server-Port-Hosting (Jusr refer the .ino file)
+Arduino: https://github.com/AnnHong/Server-Port-Hosting (Just refer to the .ino file)
